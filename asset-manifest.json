@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a396b8b3.chunk.css",
-    "main.js": "/static/js/main.34e64fea.chunk.js",
-    "main.js.map": "/static/js/main.34e64fea.chunk.js.map",
+    "main.js": "/static/js/main.bcc2b114.chunk.js",
+    "main.js.map": "/static/js/main.bcc2b114.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6563778.js",
     "runtime-main.js.map": "/static/js/runtime-main.d6563778.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -12,6 +12,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.a396b8b3.chunk.css.map": "/static/css/main.a396b8b3.chunk.css.map",
     "static/js/2.86ca16bb.chunk.js.LICENSE.txt": "/static/js/2.86ca16bb.chunk.js.LICENSE.txt",
+    "static/media/DCOSS_2021_User_Guide.95363e82.pdf": "/static/media/DCOSS_2021_User_Guide.95363e82.pdf",
     "static/media/logo.f12d5bdb.png": "/static/media/logo.f12d5bdb.png",
     "static/media/paphos.347ea8fe.jpg": "/static/media/paphos.347ea8fe.jpg"
   },
@@ -20,6 +21,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.86ca16bb.chunk.js",
     "static/css/main.a396b8b3.chunk.css",
-    "static/js/main.34e64fea.chunk.js"
+    "static/js/main.bcc2b114.chunk.js"
   ]
 }
